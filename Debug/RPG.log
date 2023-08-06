@@ -1,0 +1,32 @@
+﻿  Apple.cpp
+  Dragon.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\Dragon.cpp(14,21): error C2079: 'ss' uses undefined class 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\Dragon.cpp(16,18): error C2563: mismatch in formal parameter list
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\Dragon.cpp(16,18): error C2568: '<<': unable to resolve function overload
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\Dragon.cpp(16,18): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  EnergyDrink.cpp
+  GrimReaper.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\GrimReaper.cpp(12,21): error C2079: 'ss' uses undefined class 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\GrimReaper.cpp(14,18): error C2563: mismatch in formal parameter list
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\GrimReaper.cpp(14,18): error C2568: '<<': unable to resolve function overload
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\GrimReaper.cpp(14,18): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  Item.cpp
+  Make.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SnakeSerpent.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\SnakeSerpent.cpp(14,21): error C2079: 'ss' uses undefined class 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\SnakeSerpent.cpp(16,18): error C2563: mismatch in formal parameter list
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\SnakeSerpent.cpp(16,18): error C2568: '<<': unable to resolve function overload
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\SnakeSerpent.cpp(16,18): message : could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+  SpeedSteak.cpp
+  Weapon.cpp
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayaan\OneDrive\Desktop\Coding\C++ Projects\Visual Studio\RPG\RandomNumber.h(18,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
